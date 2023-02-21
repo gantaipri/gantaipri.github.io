@@ -409,8 +409,9 @@ body.big-star .hatena-big-star-star-container > .hatena-star-star{
   }
   
   .hatena-asin-detail {
-    padding: 10px;
+    padding: 30px 10px;
     background-size: 256px auto;
+    display: block;
   }
 
   .hatena-asin-detail .hatena-asin-detail-info {
@@ -443,8 +444,9 @@ body.big-star .hatena-big-star-star-container > .hatena-star-star{
   }
   
   .hatena-asin-detail {
-    padding: 10px;
+    padding: 30px 10px;
     background-size: 256px auto;
+    display: block;
   }
 
   .hatena-asin-detail .hatena-asin-detail-info {
