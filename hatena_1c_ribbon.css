@@ -66,6 +66,7 @@ a:active {color: #333; text-decoration: none; border: none;}
 #title {
   font-size: 26px;
   font-weight: normal;
+  font-family: 'Sacramento';
 }
 
 #blog-description {
@@ -78,6 +79,7 @@ a:active {color: #333; text-decoration: none; border: none;}
 h1 a, .date a {
   color: #333;
   text-decoration: none;
+  font-family: 'Sacramento';
 }
 
 #top-box {
