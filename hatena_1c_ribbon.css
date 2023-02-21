@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 /*
-Theme Name: ribbondiary
+Theme Name: チラシの裏
 Theme URL: http://blog.hatena.ne.jp/-/store/theme/~~~
 Description: 自分用でち。
-Author: RENA
-Author URL: http://lop-o0.hatenadiary.jp/
+Author: やぁみ
+Author URL: http://yamily.hatenadiary.jp/
 */
 
 /* 各タグに対して値を初期化 */
@@ -16,8 +16,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquot
 h1,h2,h3,h4,h5,h6 { font-size:100%; }
 
 body{
-  font-family: 'メイリオ',Meiryo,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','ＭＳ Ｐゴシック',sans-serif;
-  font-size: 12px;
+  font:normal 1.0em/140% 'ddream','Noto Sans JP',serif;
   color: #333;
   line-height: 1.6;
   letter-spacing: 2px;
@@ -142,7 +141,7 @@ h1 a, .date a {
 }
 
 .categories {
-  background-image: url("http://cdn-ak.f.st-hatena.com/images/fotolife/l/lop_o0/20161230/20161230164646.gif?1483084026");
+  background-image: url("https://cdn-ak.f.st-hatena.com/images/fotolife/l/lop_o0/20230221/20230221194256.gif");
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 17px;
@@ -166,11 +165,19 @@ h1 a, .date a {
 }
 
 .hatena-asin-detail {
-  border: solid 1px #ffd5ea;
   padding: 10px;
   margin: 10px 0;
-  background-image: url("http://f.st-hatena.com/images/fotolife/r/rubydress/20150624/20150624205453.gif?1435146921");
-  background-repeat: repeat;
+  background-image: url("https://cdn-ak.f.st-hatena.com/images/fotolife/l/lop_o0/20230221/20230221194252.png");
+  background-repeat: no-repeat;
+  font-size:;
+}
+
+.hatena-asin-detail .hatena-asin-detail-info .hatena-asin-detail-title {
+  font-size: 90%;
+}
+
+.hatena-asin-detail .hatena-asin-detail-info .asin-detail-buy {
+    display: none;
 }
 
 h3 {
