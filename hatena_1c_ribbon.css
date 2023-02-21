@@ -172,22 +172,11 @@ h1 a, .date a {
   background-repeat: no-repeat;
   background-position: top left 10px;
   box-shadow: none;
-}
-
-.hatena-asin-detail .hatena-asin-detail-info .hatena-asin-detail-title {
-  font-size: 90%;
-}
-
-.hatena-asin-detail .hatena-asin-detail-info ul, .hatena-asin-detail .hatena-asin-detail-info .hatena-asin-detail-meta {
-  font-size: 90%;
+  display: block;
 }
 
 .hatena-asin-detail .hatena-asin-detail-info {
-    margin: auto 0 20px 24px;
-}
-
-.hatena-asin-detail .hatena-asin-detail-info .asin-detail-buy {
-    display: none;
+  display: none;
 }
 
 h3 {
@@ -420,10 +409,6 @@ body.big-star .hatena-big-star-star-container > .hatena-star-star{
     background-size: 256px auto;
     display: block;
   }
-
-  .hatena-asin-detail .hatena-asin-detail-info {
-    display: none;
-  }
   
   #box2 .hatena-module {
     float: none;
@@ -456,10 +441,6 @@ body.big-star .hatena-big-star-star-container > .hatena-star-star{
     display: block;
   }
 
-  .hatena-asin-detail .hatena-asin-detail-info {
-    display: none;
-  }
-  
   #box2 .hatena-module {
     float: none;
     margin: 0 15px;
