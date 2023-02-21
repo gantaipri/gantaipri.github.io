@@ -416,9 +416,13 @@ body.big-star .hatena-big-star-star-container > .hatena-star-star{
   }
   
   .hatena-asin-detail {
-  padding: 10px;
-  background-size: 256px auto;
-}
+    padding: 10px;
+    background-size: 256px auto;
+  }
+
+  .hatena-asin-detail .hatena-asin-detail-info {
+    display: none;
+  }
   
   #box2 .hatena-module {
     float: none;
