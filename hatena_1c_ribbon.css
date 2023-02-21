@@ -172,7 +172,7 @@ h1 a, .date a {
   background-repeat: no-repeat;
   background-position: top left 10px;
   box-shadow: none;
-  display: inline;
+  display: block;
 }
 
 .hatena-asin-detail .hatena-asin-detail-info {
