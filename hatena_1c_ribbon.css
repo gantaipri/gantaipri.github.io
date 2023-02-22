@@ -307,6 +307,7 @@ pre.code {
   border:1px #ccc solid;
   background-color: #fff;
   padding: 2px;
+  width: 90px;
 }
 
 .search-module-button {
