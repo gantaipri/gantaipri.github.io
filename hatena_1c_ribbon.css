@@ -260,12 +260,6 @@ pre.code {
 .pager-next {
   display: block;
   font-size: 12px;
-  visibility: hidden;
-}
-
-.pager-next:before {
-  visibility: visible;
-  content: 'Older Posts';
 }
 
 /* サイドバー */
