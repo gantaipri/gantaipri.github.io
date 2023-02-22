@@ -36,7 +36,7 @@ a:active {color: #333; text-decoration: none; border: none;}
 
 #container {
   margin: 0 auto 0;
-  width: 650px;
+  width: 384px;
   background-color: #ffffff;
 }
 
@@ -119,8 +119,8 @@ h1 a, .date a {
 .date {
   text-align: right;
   margin-bottom: 10px;
-  font-size: 24px;
-  border-bottom: solid 1px #333;
+  padding-bottom: 7px;
+  font-size: 16px;
   font-weight: normal;
   background-image: url("https://cdn-ak.f.st-hatena.com/images/fotolife/l/lop_o0/20230222/20230222214820.jpg");
   background-repeat: no-repeat;
@@ -397,10 +397,6 @@ body.big-star .hatena-big-star-star-container > .hatena-star-star{
 
 /* iPad */
 @media screen and (max-width: 768px) {
-  
-  #container {
-    width: 90%;
-  }
   
   #wrapper {
     width: auto;
