@@ -401,6 +401,10 @@ body.big-star .hatena-big-star-star-container > .hatena-star-star{
 
 /* iPad */
 @media screen and (max-width: 768px) {
+
+  #container {
+    width: auto;
+  }
   
   #wrapper {
     width: auto;
