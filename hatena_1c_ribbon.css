@@ -121,6 +121,7 @@ h1 a, .date a {
   margin-bottom: 10px;
   font-size: 10px;
   font-weight: normal;
+  border-bottom: solid 1px #333;
 }
 
 .date .hyphen {
@@ -332,7 +333,7 @@ pre.code {
 #footer {
   margin: 40px auto 20px;
   text-align: center;
-  font-size: 12px;
+  font-size: 10px;
 }
 
 /* アーカイブ */
