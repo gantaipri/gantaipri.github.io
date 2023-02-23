@@ -111,7 +111,7 @@ h1 a, .date a {
 
 .entry-header-menu {
   position: absolute;
-  top: 6px;
+  top: 1px;
   right: 130px;
   font-size: 12px;
 }
