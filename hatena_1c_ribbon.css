@@ -112,7 +112,7 @@ h1 a, .date a {
 .entry-header-menu {
   position: absolute;
   top: 6px;
-  right: 190px;
+  right: 130px;
   font-size: 12px;
 }
 
@@ -228,6 +228,10 @@ pre.code {
   color: #fff;
   font-size: .8em;
   line-height: 1.3em;
+}
+
+div.footnote {
+    font-size: 10px;
 }
 
 .entry-footer {
