@@ -243,6 +243,15 @@ div.footnote {
   display: none;
 }
 
+
+/* 埋め込み */
+#widget2 {
+  width: 90%;
+  height: auto;
+}
+
+
+
 /* コメント */
 
 .comment-box {
