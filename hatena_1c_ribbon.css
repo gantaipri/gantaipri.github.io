@@ -411,6 +411,7 @@ body.big-star .hatena-big-star-star-container > .hatena-star-star{
 img.emoji {
   height: 1.0em;
   width: 1.0em;
+  margin: 0 .05em 0 .1em;
   vertical-align: middle;
   cursor:text;
   pointer-events: none;
