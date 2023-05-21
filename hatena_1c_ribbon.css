@@ -246,6 +246,7 @@ div.footnote {
 
 /* 埋め込み */
 #widget2 {
+  width: auto;
   height: auto;
 }
 
