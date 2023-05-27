@@ -245,7 +245,7 @@ div.footnote {
 
 
 /* 埋め込み */
-#widget2 #widget4 {
+#widget2 , #widget4 {
   width: auto;
   height: auto;
 }
