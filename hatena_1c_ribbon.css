@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6 { font-size:100%; }
 
 
 body{
-  font:normal 1.0em/140% "Helvetica Neue", Arial, 'Yomogi', "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  font:normal 1.0em/140% 'Yomogi', "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
   color: #333;
   line-height: 1.6;
   letter-spacing: 2px;
