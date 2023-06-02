@@ -148,6 +148,8 @@ h1 a, .date a {
   padding-left: 20px;
   font-size: 12px;
   margin-bottom: 15px;
+  font-family: 'Sacramento';
+}
 }
 
 /* 記事本文 */
