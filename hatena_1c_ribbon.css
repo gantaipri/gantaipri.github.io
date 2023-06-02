@@ -316,6 +316,10 @@ div.footnote {
   margin: 0;
 }
 
+.profile-icon{
+  display: none;
+}
+
 .search-module-input {
   color: #bdb5b5;
   font-size: 10px;
