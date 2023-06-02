@@ -281,6 +281,8 @@ div.footnote {
   width: 100%;
   padding: 0;
   font-size: 12px;
+  font-family: 'Sacramento';
+}
 }
 
 #box2:after {
