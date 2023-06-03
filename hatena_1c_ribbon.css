@@ -159,6 +159,10 @@ h1 a, .date a {
   margin-top: 10px;
 }
 
+.entry-content a {
+  color: #999;
+}
+
 .entry-content p {
   margin-bottom: 15px;
 }
@@ -234,7 +238,7 @@ pre.code {
 }
 
 div.footnote {
-    font-size: 10px;
+  font-size: 10px;
 }
 
 .entry-footer {
