@@ -77,9 +77,11 @@ a:active {color: #333; text-decoration: none; border: none;}
   font-weight: normal;
 }
 
-h1 a, .date a {
-  color: #333;
-  text-decoration: none;
+h1 a{
+
+}
+
+.date a {
   font-family: 'Sacramento';
 }
 
