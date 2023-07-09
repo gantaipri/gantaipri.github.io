@@ -99,7 +99,7 @@ h1 a{
 #wrapper {
   width: 520px;
   padding: 50px 0 10px 0;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .entry-inner {
@@ -433,7 +433,7 @@ img.emoji {
 @media screen and (max-width: 768px) {
 
   #container {
-    width: 80%;
+    width: 85%;
   }
   
   #wrapper {
@@ -455,7 +455,7 @@ img.emoji {
 @media screen and (max-width: 320px) {
   
   #container {
-    width: 80%;
+    width: 85%;
   }
   
   #blog-title {
