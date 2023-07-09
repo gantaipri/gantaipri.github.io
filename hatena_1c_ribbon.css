@@ -433,7 +433,7 @@ img.emoji {
 @media screen and (max-width: 768px) {
 
   #container {
-    width: auto;
+    width: 90%;
   }
   
   #wrapper {
@@ -455,7 +455,7 @@ img.emoji {
 @media screen and (max-width: 320px) {
   
   #container {
-    width: 100%;
+    width: 90%;
   }
   
   #blog-title {
