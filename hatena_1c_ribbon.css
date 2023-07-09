@@ -36,7 +36,7 @@ a:active {color: #333; text-decoration: none; border: none;}
 
 #container {
   margin: 0 auto 0;
-  width: 424px;
+  width: 624px;
   background-color: #ffffff;
 }
 
@@ -54,7 +54,7 @@ a:active {color: #333; text-decoration: none; border: none;}
   margin: 0;
   padding: 0;
   background-repeat: no-repeat;
-  text-align: center;
+  text-align: left;
 }
 
 #blog-title {
