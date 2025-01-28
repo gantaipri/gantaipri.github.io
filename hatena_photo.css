@@ -73,7 +73,7 @@ audio:not([controls]) {
  *    user zoom.
  */
 html {
-  font-family: sans-serif;
+  font-family: "Zen Kaku Gothic New", serif;
   /* 1 */
 
   -webkit-text-size-adjust: 100%;
@@ -591,6 +591,7 @@ a.keyword {
 }
 #title {
   font-size: 200%;
+  font-family: "Playwrite VN", serif;
   margin: 0;
   font-weight: 700;
 }
