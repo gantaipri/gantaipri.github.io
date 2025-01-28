@@ -725,6 +725,7 @@ a.keyword {
 .entry-content img {
   height: 100%;
   width:auto;
+  max-width: initial;
 }
 .entry-content h1,
 .entry-content h2,
