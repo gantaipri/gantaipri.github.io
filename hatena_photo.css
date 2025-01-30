@@ -1001,3 +1001,18 @@ a.keyword {
   margin: 0;
   padding: 0;
 }
+
+/* ВЈВ№Б`В∆В”ВІВс */
+@media (max-width: 768px) {
+	#box2 {
+ 	 width: auto;
+	}
+	#box2-inner {
+ 	 width: auto;
+	}
+
+	.hatena-module {
+ 	 width: auto;
+ 	 float: none;
+	}
+}
