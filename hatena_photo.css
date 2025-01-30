@@ -522,6 +522,7 @@ a.keyword {
   position: fixed;
 }
 /* container */
+/* container */
 #container {
   width: 100%;
   margin-left: auto;
@@ -546,7 +547,6 @@ a.keyword {
 .globalheader-off #container #blog-title {
   top: 10px;
 }
-
 #main {
   width: 100%;
   float: none;
@@ -578,9 +578,10 @@ a.keyword {
   width: 300px;
   float: left;
 }
-.hatena-module:nth-child(3n+1) {
+.hatena-module:nth-child(2n+1) {
   clear: both;
 }
+
 /* header */
 #blog-title {
   position: absolute;
