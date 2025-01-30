@@ -826,8 +826,7 @@ a.keyword {
 }
 .hatena-urllist li {
   font-size: 80%;
-  padding: 8px 0;
-  border-bottom: 1px dotted #eee;
+  padding: 4px 0;
   line-height: 1.5;
 }
 .hatena-urllist li a {
