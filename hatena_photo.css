@@ -1,12 +1,13 @@
 /*
 Theme Name: Photograph 2
 Theme URI: https://blog.hatena.ne.jp/-/store/theme/8454420450082048651
-Description: 写真ブロガーのための、写真だけを美しく見せるテーマです。[http://blog.hatena.ne.jp/-/store/theme/11696248318757552411:title=Photograph] を、コンセプトはそのままに、大幅にアップデートしました。** Photographからの主な変更点- Pro未加入でも気持ちよく使っていただけるようになりました-- ヘッダ・フッタともに、非表示・表示問わず、お使いいただけます-- 広告表示ありでもお使いいただけます- よりシンプルに写真に目が行くようになりました-- ブログタイトルの固定表示をやめ、スクロールすると写真だけが目に入るようになります-- 記事タイトルを下部に変更し、ファーストビューには写真とタイトル、グローバルヘッダのみが入ります（ウィンドウサイズやユーザー設定によりこの限ではありません）** 推奨設定- 本文に写真（img要素）のみ-- img要素以外を入力すると崩れます- コメント非表示-- コメントを表示すると崩れます** バグ報告- [https://twitter.com/chira_rhythm55:title=@chira_rhythm55] もしくは chirarhythm@gmail.com までご連絡ください
+Description: ** 推奨設定- 本文に写真（img要素）のみ-- img要素以外を入力すると崩れます- コメント非表示-- コメントを表示すると崩れます** バグ報告- [https://twitter.com/chira_rhythm55:title=@chira_rhythm55] もしくは chirarhythm@gmail.com までご連絡ください
 Author: chira_rhythm55
 Author URI: https://blog.hatena.ne.jp/chira_rhythm55/
 */
-@import url(https://fonts.googleapis.com/css?family=Roboto);
+
 @charset "utf-8";
+
 /*
   Theme: boilerplate
   Author: Hatena Blog Team
