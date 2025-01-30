@@ -73,7 +73,7 @@ audio:not([controls]) {
  *    user zoom.
  */
 html {
-  font-family: "Zen Kaku Gothic New", serif;
+  font-family: serif;
   /* 1 */
 
   -webkit-text-size-adjust: 100%;
@@ -413,7 +413,7 @@ table {
 /* Common */
 html,
 body {
-  font-family: 'Roboto', 'Helvetica', 'Arial', 'Hiragino Kaku Gothic Pro', 'Meiryo', 'MS PGothic', sans-serif;
+  font-family: "Zen Kaku Gothic New", 'Arial', 'Hiragino Kaku Gothic Pro', 'MS PGothic', serif;
   color: fff;
   background-color: #fff;
 }
