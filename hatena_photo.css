@@ -1006,7 +1006,7 @@ a.keyword {
 /* ВЈВ№Б`В∆В”ВІВс */
 @media (max-width: 768px) {
 	#box2 {
- 	 width: auto;
+ 	 width: 80%;
 	}
 	#box2-inner {
  	 width: auto;
