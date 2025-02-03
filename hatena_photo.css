@@ -820,11 +820,11 @@ a.keyword {
 }
 
 
-.recent-entries-item-inner {
+.recent-entries-item {
   float: left;
 }
 
-.recent-entries-item-inner:nth-child(3n+1) {
+.recent-entries-item:nth-child(3n+1) {
   clear: both;
 }
 
