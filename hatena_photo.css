@@ -820,6 +820,18 @@ a.keyword {
 }
 
 
+.recent-entries-item-inner {
+  float: left;
+}
+
+.recent-entries-item-inner:nth-child(3n+1) {
+  clear: both;
+}
+
+
+
+
+
 /* urllist module
     リンク・最新記事・最近のコメント・月別アーカイブ・カテゴリモジュールは .hatena-urllist という共通の class が振られます
 */
