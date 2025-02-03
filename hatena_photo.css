@@ -822,10 +822,12 @@ a.keyword {
 
 
 /* ‚¢‚ñ‚·‚½•—I */
+.recent-entries-item li {
+  padding: 0px;
+}
 
 .recent-entries-item {
   float: left;
-  padding-left: 10px;
 }
 
 .recent-entries-item:nth-child(3n+1) {
