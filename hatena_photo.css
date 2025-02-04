@@ -825,7 +825,7 @@ a.keyword {
 
 .recent-entries-item {
   float: left;
-  padding: 0px;
+  padding: 0px !important;
 }
 
 .recent-entries-item:nth-child(3n+1) {
