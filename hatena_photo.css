@@ -821,13 +821,11 @@ a.keyword {
 
 
 
-/* ‚¢‚ñ‚·‚½•—I */
-.recent-entries-item li {
-  padding: 0px;
-}
+/* –^SNS•—I */
 
 .recent-entries-item {
   float: left;
+  padding: 0px;
 }
 
 .recent-entries-item:nth-child(3n+1) {
