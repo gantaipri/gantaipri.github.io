@@ -25,6 +25,10 @@ body{
   -webkit-text-size-adjust: 100%;
 }
 
+body .body-iframe{
+  font:normal 1.2em/140% 'Yomogi', "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+}
+
 a:link {color: #333; text-decoration: none; border: none;}
 a:visited {color: #333; text-decoration: none; border: none;}
 a:hover {color: #ccc; text-decoration: none; border: none;}
